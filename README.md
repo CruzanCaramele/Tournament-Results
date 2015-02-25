@@ -24,22 +24,21 @@ from this [link](https://github.com/CruzanCaramele/Tournament-Results/archive/ma
 ### Running the Tournament Results
 The aim for this is to run tournament_test.py file which contains unit tests that will test the functions within tournament.py file
 
-- Launch the terminal program on your computer e.g git bash on Windows
-- Navigate to the Vagrant folder from the terminal:
+1. Launch the terminal program on your computer e.g git bash on Windows
+2. Navigate to the Vagrant folder from the terminal:
 	- hp (master *) vagrant $
 
-- type in the command " vagrant up ":
+3. type in the command " vagrant up ":
 	- hp (master *) vagrant $ vagrant up
-		- Once this is up, you'll get the message: "Machine booted and ready!"
 
-- type in the command " vagrant ssh "
+4. type in the command " vagrant ssh "
 	- hp (master *) vagrant $ vagrant ssh
 
-- change directory to the tournament folder:
+5. change directory to the tournament folder:
 	- vagrant@vagrant-ubuntu-trusty-32:~$ cd /vagrant/tournament
 	- vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$
 
-- finally to run the unti tests on the database, type in " python tournament_test.py":
+6. finally to run the unti tests on the database, type in " python tournament_test.py":
 	- vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ python tournament_test.py
 	
 - a sample successful output of the tests is:
