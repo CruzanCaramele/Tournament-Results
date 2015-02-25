@@ -1,5 +1,5 @@
 # Tournament Results
-
+Navigate into the vagrant folder for contents
 
 ## Table of contents
 
@@ -58,7 +58,7 @@ Success!  All tests pass!
 
 
 ## Documentation
-For complete Documentation on the Tournament Results project, click [here]()
+For complete Documentation on the Tournament Results project, click [here](https://github.com/CruzanCaramele/Tournament-Results/tree/master/vagrant/tournament/docs)
 This includes details on:
 	- Code templates
 	- the databse design
