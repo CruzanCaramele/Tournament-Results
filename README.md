@@ -1,5 +1,6 @@
 # Tournament Results
 
+
 ## Table of contents
 
 - [About Tournament Results](#About)
@@ -16,7 +17,8 @@ The game tournament uses the [Swiss system](https://en.wikipedia.org/wiki/Swiss-
 ### Requirements to Run the Tournament Results
 - Install [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 	- Follow the guidelines [here](https://www.udacity.com/wiki/ud197/install-vagrant) to set up the virtual environment
-- Clone this repository [here](https://github.com/CruzanCaramele/Tournament-Results.git) from GitHub
+- Clone this repository [here](https://github.com/CruzanCaramele/Tournament-Results.git) from GitHub OR download the zipped folder
+from this [link](https://github.com/CruzanCaramele/Tournament-Results/archive/master.zip)
 
 ### Running the Tournament Results
 The aim for this is to run tournament_test.py file which contains unit tests that will test the functions within tournament.py file
