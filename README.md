@@ -1,5 +1,6 @@
 # Tournament Results
-Navigate into the vagrant folder for contents
+
+Navigate into the vagrant folder to access the tournament project file
 
 ## Table of contents
 
